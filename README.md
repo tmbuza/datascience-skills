@@ -1,1 +1,1 @@
-# skills-wordcloud
+Basic Requeirements for Data Science Career
