@@ -1,3 +1,3 @@
-# Basic Requeirements for Data Science Career
+# Basic Skills for Data Science Career
 
 ...In Progress...
